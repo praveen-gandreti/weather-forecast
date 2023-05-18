@@ -1,0 +1,62 @@
+body{
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  
+}
+.x
+{
+    padding-top: 10%;
+    padding-left: 35%;
+}
+mat-card
+{
+    height: 70%;
+    width: 50%;
+    background-color:rgba(255, 255, 255, 0.5)
+}
+.z
+{
+    padding: 5%;
+}
+.title
+{
+    margin-left: 13%;
+    font-size: xx-large;
+    font-family: Courier;
+}
+.pic
+{
+
+    margin-top: 5%;
+    margin-left: 37%;
+    width: 60%;
+    height: 60%;
+
+}
+.pic img{
+    border: solid 2% black;
+}
+.temp
+{
+    margin-left: 33%;
+    font-size:330%;
+    font-family: 'Courier New', Courier, monospace;
+}
+.one
+{
+    margin-top:15%;
+    margin-left:7%;
+}
+.two
+{
+    margin-top: 15%;
+    margin-left: 4%
+}
+.footer
+{
+    margin-top: 15%;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+}
