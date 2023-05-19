@@ -7,7 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 #### API link [CLICK HERE TO VIEW API DATA](https://api.weatherapi.com/v1/forecast.json?key=232c4483a75b4b3ca5692328223105&q=CityName)
 
 ### What's new in this application ?
-## -> This application shows the background basing up on Time and weather.
+#### -> This application shows the background basing up on Time and Weather.
 
 ## Deployment Platform
 This applicationwas deployed in Vercel.
