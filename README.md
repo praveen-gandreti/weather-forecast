@@ -4,11 +4,16 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 #### Deployment link [CLICK HERE TO VIEW APPLICATION EXECUTION](https://weather-forecast-gilt-delta.vercel.app/)
 
+#### API link [CLICK HERE TO VIEW API DATA](https://api.weatherapi.com/v1/forecast.json?key=232c4483a75b4b3ca5692328223105&q=CityName)
+
+### What's new in this application ?
+## -> This application shows the background basing up on Time and weather.
+
 ## Deployment Platform
 This applicationwas deployed in Vercel.
 
 Weather data which is showing in template is taken from -> Open Weather API
-## API link [CLICK HERE TO VIEW API DATA](https://api.weatherapi.com/v1/forecast.json?key=232c4483a75b4b3ca5692328223105&q=CityName)
+
 
 ## Development server
 
